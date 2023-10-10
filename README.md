@@ -1,16 +1,23 @@
-# wallet_app
+<h1 align = "center">Wallet App UI</h1>
 
-A new Flutter project.
+<p align = "center">A Wallet app is an UI built using Flutter, The App is responsive I used flutter_screenutil Package. Tried to make the code clean!!</p>
+<hr/>
+<h2> Screenshots From App:</h2>
+<table align="center">
+  <tr>
+    <td><img src="./Screenshots/register_screen.png" alt="Register Screen" width="200"/></td>
+    <td><img src="./Screenshots/login_screen.png" alt="Login Screen" width="200"/></td>
+    <td><img src="./Screenshots/add_card_screen.png" alt="Add Card Screen" width="200"</td>
+  </tr>
+  <tr>
+    <td><img src="./Screenshots/home_screen.png" alt="Home Screen" width="200"/></td>
+         <td><img src="./Screenshots/card_details_screen.png" alt="Card Details Screen" width="200"/></td>
+    <td><img src="./Screenshots/notifications_screen.png" alt="Notifications Screen" width="200"/></td>
+  </tr>
+  <tr >
+        <td><img src="./Screenshots/settings_screen.png" alt="Settings Screen" width="200"</td>
+    <td><img src="./Screenshots/profile_settings_screen.png" alt="Profile Settings Screen" width="200"/></td>
+  </tr>
+</table>
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
