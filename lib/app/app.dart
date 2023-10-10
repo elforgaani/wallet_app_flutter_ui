@@ -22,6 +22,7 @@ class _MyAppState extends State<MyApp> {
       designSize: designSize,
       builder: (context, child) {
         return MaterialApp(
+          debugShowCheckedModeBanner: false,
           theme: getAppTheme(),
           onGenerateRoute: RouteManager.getRoute,
           home: const SignUpView(),

@@ -31,11 +31,11 @@ class NotificationCard extends StatelessWidget {
                   crossAxisAlignment: CrossAxisAlignment.start,
                   children: [
                     Text(
-                      '29 June 2021, 7.14 PM',
+                      '19 June 2023, 7.14 PM',
                       style: Theme.of(context).textTheme.labelSmall,
                     ),
                     Text(
-                      'You received Rp 100.000 from\nAlexandr Gibson Jogja',
+                      'You received \$500.0 from\nMohamed El-Forgani',
                       style: Theme.of(context).textTheme.labelSmall!.copyWith(
                             color: ColorManager.blackPurple,
                           ),

@@ -19,6 +19,7 @@ class ProfileSettingsListView extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return ListView.separated(
+        physics: const NeverScrollableScrollPhysics(),
         itemBuilder: ((context, index) {
           return profileSettingsItems[index];
         }),

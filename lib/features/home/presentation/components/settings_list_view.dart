@@ -31,6 +31,7 @@ class SettingListView extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return ListView.separated(
+        physics: const NeverScrollableScrollPhysics(),
         itemBuilder: (context, index) {
           return settingsListItems[index];
         },
